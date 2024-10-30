@@ -22,3 +22,8 @@ When you open the app, you can edit notification settings.
 After, you click the **START** button and the app's window will close.
 
 It will send you notifications until you close the terminal.
+
+## Screenshots
+![1](https://github.com/user-attachments/assets/9f3f432c-3772-49d5-843e-4cfef1db512e)
+![2](https://github.com/user-attachments/assets/d07e4e0d-9461-48ce-a56d-055b5d467c74)
+![3](https://github.com/user-attachments/assets/1f68cda3-4378-49a7-bb9f-96cb8623a29b)
