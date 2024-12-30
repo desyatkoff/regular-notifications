@@ -67,7 +67,7 @@ class App(customtkinter.CTk):
 
         self.description_label = customtkinter.CTkLabel(
             master = self.sidebar_frame,
-            text = "An app for sending customizable notifications\nevery X minutes/hours/days etc\n\nMade by Serriox",
+            text = "An app for sending customizable notifications\nevery X minutes/hours/days etc\n\nMade by Serriox (@desyatkoff)",
             font = customtkinter.CTkFont(
                 size = 16
             )
@@ -211,7 +211,7 @@ class App(customtkinter.CTk):
                 dark_image = PIL.Image.open(f"{os.path.dirname(__file__)}/github.png"),
                 size = (24, 24)
             ),
-            command = lambda: webbrowser.open("https://github.com/serriox/")
+            command = lambda: webbrowser.open("https://github.com/desyatkoff/")
         )
         self.github.grid(
             row = 2,
